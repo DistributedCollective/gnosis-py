@@ -44,6 +44,8 @@ class EthereumNetwork(Enum):
     OPTIMISTIC = 10
     RINKEBY = 4
     GOERLI = 5
+    RSK = 30
+    RSK_TESTNET = 31
     KOVAN = 42
     BINANCE = 56
     XDAI = 100
